@@ -1,11 +1,11 @@
 # CSN221-DualLocalityCache
 Research Assignment on exlpoiting spatial and temporal locality simultaneously in a cache design.
 
-Computer Architecture Semester(2-1) Project
+#### Computer Architecture Semester(2-1) Project ####
 
-Group no : 6067
+#### Group no : 6067 ####
 
-Group Members : 
+#### Group Members : ####
 
 * Ritika Garg  (CSE) 18114069
 * Rutuja Bhagwan Kendre  (CSE) 18114070
@@ -15,5 +15,5 @@ Group Members :
 * Sadique Wasim  (ECE) 18116066
 * Vanshika Singh  (ECE) 18116081
 
-Flow of the Report :
+#### Flow of the Report : ####
 - Abstract
