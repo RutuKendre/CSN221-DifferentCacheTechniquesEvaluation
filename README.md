@@ -1,5 +1,5 @@
-# CSN221-DualLocalityCache
-Research Assignment on exlpoiting spatial and temporal locality simultaneously in a cache design.
+# CSN221
+Research Assignment on exlpoiting spatial and temporal locality in different cache designs.
 
 #### Computer Architecture Semester(2-1) Project ####
 
